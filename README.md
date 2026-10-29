@@ -1,2 +1,2 @@
 # TraversalPond
-Traversal Pond with UIand Revised Puzzles
+Traversal Pond with UI and Revised Puzzles
